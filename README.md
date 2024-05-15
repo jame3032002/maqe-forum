@@ -1,4 +1,4 @@
-# MAQE Interview
+# MAQE forum
 
 MAQE assignment for Front-end Developer
 
